@@ -6,6 +6,8 @@ public class HolaMundo {
 		
 		System.out.println("Hola Mundo!!");
 		System.out.println("esta es otra linea de codigo");
+		System.out.println("tu tocayo estuvo aqui");
+
 	}
 
 }
